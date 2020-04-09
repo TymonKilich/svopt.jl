@@ -1,0 +1,7 @@
+name = "svopt"
+uuid = "6320da6c-9e76-4453-9af7-ebe2cb8a560e"
+authors = ["Tikej "]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
